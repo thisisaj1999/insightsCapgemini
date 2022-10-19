@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.mainPageHeading {
+  font-size: 1.75rem;
+  color: #15011d;
+  letter-spacing: 0.12px;
+  line-height: 32px;
+  /* font-family: ; */
 }
