@@ -31,11 +31,13 @@
 #SecHeading{
     padding-top: 4%;
     margin-left: 4%; 
+    
 
 }
 /* For Paragraph  */
 #SecPara{
-    margin-left: 4%;   
+    margin-left: 4%; 
+    margin-bottom: 1%;  
     font-size: 18px;
     
 }

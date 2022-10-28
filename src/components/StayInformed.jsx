@@ -5,7 +5,7 @@ function StayInformed(){
         <>
         <div className="StayContainer">
            <div className="leftdiv">
-            <h1>Stay Informed</h1>
+            <h2>Stay Informed</h2>
             <p>Subscribe to have the latest reports from the Capgemini Research Institute delivered direct to your inbox.</p>
            </div>
 

@@ -10,7 +10,7 @@ function Research() {
         </div>
 
         <div className="left">
-            <h3 id="SecHeading">Capgemini Research Institute</h3>
+            <h2 id="SecHeading">Capgemini Research Institute</h2>
             <p id="SecPara">The Capgemini Research Institute is our #1 ranked global think tank.</p>
             <button className="btn btn-outline-dark" id="SecButton">Read More </button>
         </div>
